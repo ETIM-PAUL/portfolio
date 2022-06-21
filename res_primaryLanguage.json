@@ -1,0 +1,141 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Etim Paul. I'm working with newest front-end frameworks. What you are seeing now is my portfolio template. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "An Online Shopping App",
+        "startDate": "2021",
+        "description": "An E-commerce app that lets you shop for products of different categories. You can change the currency to your desired currency, add the same product with different attributes, get a cart overlay of all your added products. etc. I built this app using react, react-redux, css and typescript",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://rocky-spire-87730.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-redux-plain",
+            "name": "Redux"
+          }
+        ]
+      },
+      {
+        "title": "Restaurant Ordering Application",
+        "startDate": "2022",
+        "description": "Personal project for study subject. I was responsible for building both the backend and frontend of this application. I used Next.js, antD, css, for building the frontend. The backend was built with nest.js and mongoDB was used for the database. I used jest for testing in the backend. This Restaurant Ordering Application has many features, such as allowing you sign up, as a restaurant owner, to manage your restaurant orders and reservations. It also allows you to sign up as a customer, so that you can place orders from your favourite restaurants. View restaurant locations and track the status for the delivery of your orders.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://restaurant-nextjs-client.vercel.app/",
+        "technologies": [
+          {
+            "class": "devicon-nextjs-original",
+            "name": "Next.js"
+          },
+          {
+            "class": "devicon-nestjs-plain",
+            "name": "Nest.js"
+          },
+          {
+            "class": "devicon-jest-plain",
+            "name": "Jest"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "Mongo DB"
+          }
+        ]
+      },
+      {
+        "title": "A Construction and Freight Services Agency Landing Page",
+        "startDate": "2022",
+        "description": "I had to develop a landing page for a general contractor and freight handling agency. I also included a third party chat application, powered by tawk.io. a feature that allows you send an email right from the landing page to the company's email address. This application was built with javascript, bootstrap and plain css. I AM CURRENTLY WORKING ON THIS. COMING SOON.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-css-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "A Simple and Grading Quiz App",
+        "startDate": "2022",
+        "description": "I had to develop a landing page for a general contractor and freight handling agency. I also included a third party chat application, powered by tawk.io. a feature that allows you send an email right from the landing page to the company's email address. This application was built with javascript, bootstrap and plain css.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://sheltered-basin-15075.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "FreeLance",
+        "title": "Front-End Developer",
+        "years": "01.2021 - present",
+        "mainTech": [
+          "React, Nestjs, Nodejs, MongoDB, Nextjs"
+        ],
+        "technologies": [
+          "Jest",
+          "Nextjs",
+          "CSS (Bootstrap, antD, material UI)",
+          "mongoDB",
+          "JavaScript",
+          "Typescript"
+        ]
+      },
+      {
+        "company": "Aptech Computer Education",
+        "title": "Web Developer (Intern)",
+        "years": "2020",
+        "mainTech": [
+          "React, Javascript, Nodejs, PHP"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Bootstrap",
+          "Styled Components",
+          "AntD",
+          "Typescript"
+        ]
+      }
+      
+    ]
+  }

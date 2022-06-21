@@ -1,0 +1,62 @@
+{
+    "basic_info": {
+      "name": "Etim Paul Ekpenyong",
+      "titles": [ "Front-end Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Etim-Paul",
+          "class": "fab fa-github"
+        }
+      ]
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Nest js",
+          "class": "devicon-nestjs-plain",
+          "level": "65"
+        },
+        {
+          "name": "Node",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Next js",
+          "class": "devicon-nextjs-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
